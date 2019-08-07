@@ -10,8 +10,8 @@ JavaScript - the language browsers (UI) understand
 - Functions
 - Classes
 - Node.js
-- Example http get/post
 - Npm
+- Example http get/post
 - Webpack
 Used for code examples: [https://repl.it](https://repl.it)
 ---
