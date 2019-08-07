@@ -15,7 +15,7 @@ JavaScript - the language browsers (UI) understand
 - Webpack
 ---
 - Used for code examples: [https://repl.it](https://repl.it)
--bFor local code must run `npm install` in the folder to get dependencies
+- For local code must run `npm install` in the folder to get dependencies
 ---
 
 ### Styling Guide 
