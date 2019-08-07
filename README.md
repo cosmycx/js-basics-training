@@ -151,9 +151,9 @@ arr.forEach(function(el) {
 })// .forEach
 ```
 - map, reduce, filter
-map returns a new array vs. forEach
-reduce returns a single output value
-filter return a new array
+- map returns a new array vs. forEach
+- reduce returns a single output value
+- filter return a new array
 ```javascript
 const arr = [1, 2, 3, 4]
 const reducer = (acc, curr) => acc + curr
