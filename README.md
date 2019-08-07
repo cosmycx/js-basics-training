@@ -17,8 +17,8 @@ Used for code examples: [https://repl.it](https://repl.it)
 ---
 
 ### Styling Guide 
-Airbnb: [https://github.com/airbnb/javascript](https://github.com/airbnb/javascript)
-Google: [https://google.github.io/styleguide/jsguide.html](https://google.github.io/styleguide/jsguide.html)
+- Airbnb: [https://github.com/airbnb/javascript](https://github.com/airbnb/javascript)
+- Google: [https://google.github.io/styleguide/jsguide.html](https://google.github.io/styleguide/jsguide.html)
 - Automatic Semicolon Insertion (ASI)
 - Semicolons or not? - stick with one style only
 - Lint for code: [https://www.jslint.com/](https://www.jslint.com/)
